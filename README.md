@@ -1,4 +1,5 @@
 # Sistema de Gerenciamento de Links (SGL).
+#Link para acesso ao repositorio:
 # Descrição
 O sistema permite gerenciar links úteis categorizados por assunto, com funcionalidades de cadastro, listagem, filtragem e remoção. Além disso, suporta persistência de dados usando arquivos de texto, garantindo que os links sejam recuperados mesmo após o encerramento do programa.
 O projeto foi desenvolvido em Java, utilizando versão semântica para gerenciar entregas contínuas em sprints.
